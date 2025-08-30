@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+'''
+Author: subh
+License: MIT
+'''
+
+
 import requests
 import argparse
 
